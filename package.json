@@ -1,0 +1,29 @@
+{
+  "name": "lametric.jotocorp.com",
+  "version": "1.0.0",
+  "description": "API endpoints for my LaMetric Time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/spacebabies/lametric.jotocorp.com.git"
+  },
+  "keywords": [
+    "netlify",
+    "functions",
+    "api",
+    "lametric"
+  ],
+  "author": "joost@spacebabies.nl",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/spacebabies/lametric.jotocorp.com/issues"
+  },
+  "homepage": "https://github.com/spacebabies/lametric.jotocorp.com#readme",
+  "private": true,
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
